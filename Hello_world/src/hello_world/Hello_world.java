@@ -19,6 +19,7 @@ public class Hello_world {
      * Yo yo yo yo yoyoyoyoyoyo
      */
     public static void main(String[] args) {
+        System.out.println("Hello World");
         // TODO code application logic here
     }
     
